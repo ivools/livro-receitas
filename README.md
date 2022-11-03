@@ -1,3 +1,6 @@
-# receitas
+# Livro de Receitas
 
-### livro de receitas
+#### Hola, bem vindo ao meu livro de receitas!!
+
+- Strogonoff de frango
+- Pavê
